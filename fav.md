@@ -1,4 +1,10 @@
-###[!]前后端完全分离初探
+# 前端资源
+
+标签（空格分隔）： 前端
+
+[TOC]
+
+### [!]前后端完全分离初探
 [前后端完全分离初探](http://arccode.net/2015/04/08/%E5%89%8D%E5%90%8E%E7%AB%AF%E5%AE%8C%E5%85%A8%E5%88%86%E7%A6%BB%E5%88%9D%E6%8E%A2/)
 [vue.js](http://vuejs.org/)
 一个用于创建web交互界面的库, 主要用于数据双向绑定.
@@ -15,188 +21,195 @@
 [director.js](https://github.com/flatiron/director)
 一个强大的前端路由库, 通过#符号进行路径组织, 结合vue的component可进行单页的局部模块刷新.
 
+### [!]Facebook React Native
+>- [__Facebook React Native 中文教程__](http://wiki.jikexueyuan.com/project/react-native/)
 
-###[!]Facebook React Native
->* [__Facebook React Native 中文教程__](http://wiki.jikexueyuan.com/project/react-native/)
+### [!]教程
+>- [妙味课堂](http://www.miaov.com/2013/miaovideo/miaovideo.html)
+- [Learn HTML5, CSS3, Javascript - video style tutorials](http://thecodeplayer.com/)
+- [Framework7 - Full Featured Mobile HTML Framework For Building iOS Apps](http://framework7.taobao.org/)
+- [关于大型网站技术演进的思考（二十一）--网站静态化处理—web前端优化—下【终篇】（13）](http://www.cnblogs.com/sharpxiajun/)
+- [Javascript之旅](http://www.cnblogs.com/huangxincheng/category/633317.html)
 
----
-###[!]教程
->* [妙味课堂](http://www.miaov.com/2013/miaovideo/miaovideo.html)
-* [Learn HTML5, CSS3, Javascript - video style tutorials](http://thecodeplayer.com/)
-* [Framework7 - Full Featured Mobile HTML Framework For Building iOS Apps](http://framework7.taobao.org/)
-
----
 ### Html5
->* __[html5互动案例](http://www.w3cmark.com/html5/)__
-* __[移动前端开发大杂烩](https://github.com/hoosin/mobile-web-favorites)__
-* [那些过目不忘的H5页面](http://isux.tencent.com/great-mobile-h5-pages.html)
-* [HTML5 Clear](http://clear.evanyou.me/)
-* [DeviceOrientation来实现手机网站上的摇一摇功能](http://www.cnblogs.com/iamjiuye/archive/2013/04/10/3012381.html)
-* [制作炫酷的专题页面](http://www.cnblogs.com/xiaoheimiaoer/p/4162546.html)
-* [再回眸，丽影如初-腾讯ISUX – 社交用户体验设计 – Better Experience Through Design](http://isux.tencent.com/introduction-of-apng.html)
-* [FrozenUI - 动画效果集](http://frozenui.github.io/case.html)
-* [HTML5 Game Engines - Find Which is Right For You](http://html5gameengine.com/)
-* [白鹭引擎 - Egret Engine-免费开源HTML5游戏引擎](http://www.egret-labs.org/)
-* [HTML5资源教程](http://www.html5tricks.com/)
-* [CreateJS | A suite of JavaScript libraries and tools designed for working with HTML5](http://createjs.com/Home)
-* [網頁上也能做刮刮樂！運用 HTML5 canvas 合成功能](http://tech.mozilla.com.tw/posts/3502/%E7%B6%B2%E9%A0%81%E4%B8%8A%E4%B9%9F%E8%83%BD%E5%81%9A%E5%88%AE%E5%88%AE%E6%A8%82%EF%BC%81%E9%81%8B%E7%94%A8-html5-canvas-%E5%90%88%E6%88%90%E5%8A%9F%E8%83%BD)
-* [jCanvaScript 操作canvas](http://jcscript.com/documentation/)
-* [专注于移动端的fullPage.js](https://github.com/yanhaijing/zepto.fullpage)
+>- [**html5互动案例**](http://www.w3cmark.com/html5/)
+- [**移动前端开发大杂烩**](https://github.com/hoosin/mobile-web-favorites)
+- [那些过目不忘的H5页面](http://isux.tencent.com/great-mobile-h5-pages.html)
+- [HTML5 Clear](http://clear.evanyou.me/)
+- [DeviceOrientation来实现手机网站上的摇一摇功能](http://www.cnblogs.com/iamjiuye/archive/2013/04/10/3012381.html)
+- [制作炫酷的专题页面](http://www.cnblogs.com/xiaoheimiaoer/p/4162546.html)
+- [再回眸，丽影如初-腾讯ISUX – 社交用户体验设计 – Better Experience Through Design](http://isux.tencent.com/introduction-of-apng.html)
+- [FrozenUI - 动画效果集](http://frozenui.github.io/case.html)
+- [HTML5 Game Engines - Find Which is Right For You](http://html5gameengine.com/)
+- [白鹭引擎 - Egret Engine-免费开源HTML5游戏引擎](http://www.egret-labs.org/)
+- [HTML5资源教程](http://www.html5tricks.com/)
+- [CreateJS | A suite of JavaScript libraries and tools designed for working with HTML5](http://createjs.com/Home)
+- [網頁上也能做刮刮樂！運用 HTML5 canvas 合成功能](http://tech.mozilla.com.tw/posts/3502/%E7%B6%B2%E9%A0%81%E4%B8%8A%E4%B9%9F%E8%83%BD%E5%81%9A%E5%88%AE%E5%88%AE%E6%A8%82%EF%BC%81%E9%81%8B%E7%94%A8-html5-canvas-%E5%90%88%E6%88%90%E5%8A%9F%E8%83%BD)
+- [jCanvaScript 操作canvas](http://jcscript.com/documentation/)
+- [专注于移动端的fullPage.js](https://github.com/yanhaijing/zepto.fullpage)
 
-----------
-###MobileWeb
+### MobileWeb
 >- [移动Web单页应用开发实践——页面结构化](http://www.cnblogs.com/rubylouvre/p/3348242.html)
 - [{NIRVANA} for mobile work!](http://nirvana.sinaapp.com/)
 - [移动web开发经验总结](http://ntesmailfetc.blog.163.com/blog/static/20628706120139184457401/)
-- __[基于微信的Single Page App开发](http://boundary.cc/2014/10/weixin-single-page-app-dev/)__
+- [移动前端开发之viewport的深入理解](http://www.cnblogs.com/2050/p/3877280.html)
+- [**基于微信的Single Page App开发**](http://boundary.cc/2014/10/weixin-single-page-app-dev/)
 - [Web App的零框架解决方案](https://github.com/ruanyf/articles/blob/master/2015/2015-01-16-zero-framework.md)
 - [移动Web开发规范 | Spirit - 腾讯移动Web整体解决方案 | AlloyTeam](http://alloyteam.github.io/Spirit/modules/Standard/index.html)
 - [去哪儿网酒店前端移动组](http://ued.qunar.com/mobile/)
 - [移动web资源整理](http://www.cnblogs.com/PeunZhang/p/3407453.html)
 - [腾讯移动Web前端框架](https://github.com/AlloyTeam/Pro)
 - [touch系事件](http://www.html-js.com/article/All-right-thinking-touch-events)
-___
-> __侧边栏滑动__
-- [Slideout.js](https://github.com/Mango/slideout)
-___
-> **input**
-- [Js控制iphone端的input/textarea元素失去焦点时隐藏键盘](http://www.cnblogs.com/dtdxrk/p/3682352.html)
-___
-> **fixed**
-- [ios fixed定位问题](http://hushicai.com/2014/08/19/ios-fixed-ding-wei-wen-ti.html)
-___
-> **scroll**
-- [Mobiscroll - Customizable HTML5 UI components for touch devices like smartphones and tablets](http://mobiscroll.com/)
-___
-> **调试**
-- [移动端前端开发调试](http://yujiangshui.com/multidevice-frontend-debug/)
+- [百度云 手势事件库实现了Web App在触屏设备上的手势识别与事件管理功能](http://touch.code.baidu.com/)
+
+#### 侧边栏滑动
+>- [Slideout.js](https://github.com/Mango/slideout)
+
+#### input
+>- [Js控制iphone端的input/textarea元素失去焦点时隐藏键盘](http://www.cnblogs.com/dtdxrk/p/3682352.html)
+
+#### fixed
+> [ios fixed定位问题](http://hushicai.com/2014/08/19/ios-fixed-ding-wei-wen-ti.html)
+
+#### scroll
+>- [Mobiscroll - Customizable HTML5 UI components for touch devices like smartphones and tablets](http://mobiscroll.com/)
+
+#### 调试
+>- [移动端前端开发调试](http://yujiangshui.com/multidevice-frontend-debug/)
 - [远程实时调试手机上的Web页面](http://www.douban.com/note/289846168/)
 - [Web移动应用调试工具——Weinre](http://blog.csdn.net/dojotoolkit/article/details/6280924)
-___
-> **像素**
-- [移动开发需要知道的像素知识](http://weizhifeng.net/you-should-know-about-dpi.html)
+
+#### 像素
+>- [移动开发需要知道的像素知识](http://weizhifeng.net/you-should-know-about-dpi.html)
 - [移动终端开发必备知识-腾讯ISUX](http://isux.tencent.com/mobile-development-essential-knowledge.html)
 - [微信网站IPhone6 CSS3 Media Queries片段大全](http://www.xunhuweb.com/blog/351)
 - [Density Buckets for iOS, Android & Windows](http://density.brdrck.me/)
 
----
 ### js
->* [jquery 实现原理八：DOM操作-manipulate](http://blog.csdn.net/lihongxun945/article/details/13354369)
-* [跟我一起学JQuery插件开发](http://www.cnblogs.com/damonlan/archive/2012/04/06/2434460.html)
-* [前端 JavaScript 架构](http://www.cnblogs.com/nuysoft/)
-* [大熊君JavaScript插件化开发](http://www.cnblogs.com/bigbearbb/p/4237282.html)
-* [大话JS面向对象之开篇万物皆对象](http://www.cnblogs.com/bigbearbb/p/4168970.html)
-* [ECMAScript5.1中文版 + ECMAScript3 + ECMAScript（合集）](http://yanhaijing.com/es5/#162)
-* [深入理解javascript原型和闭包系列](http://www.cnblogs.com/wangfupeng1988/p/4001284.html)
-* [JavaScript学习总结（一）基础部分](http://segmentfault.com/blog/trigkit4/1190000000652749)
-* [如何正确学习JavaScript](http://www.crimx.com/2014/05/15/how-to-learn-javascript-properly/)
-* [豪情前端作品列表 - 着重于原生js的研究与探索](http://1.gitapp.sinaapp.com/base/)
-* [JavaScript奇技淫巧45招](http://chensd.com/2015-01/45-useful-javascript-tips-tricks-and-best-practices.html)
-* [JavaScript 判断 DOM 何时加载完毕](http://www.cnblogs.com/ninofocus/archive/2012/11/11/2764640.html)
-* [谈谈DOMContentLoaded：Javascript中的domReady引入机制](http://www.cnblogs.com/horve/p/4092064.html)
-* [[译]神马是AMD, CommonJS, UMD](http://www.w3ctech.com/topic/858)
-* [阿当大话西游之WEB组件](http://www.imooc.com/view/99)
-* [实战JS正则表达式 - 大额_skylar](http://www.cnblogs.com/skylar/p/4265490.html)
-* [JavaScript的计时器的工作原理](http://segmentfault.com/a/1190000002633108)
-* [前端模版选择](http://garann.github.io/template-chooser/)
-* [Sprint.js - 一个高性能、小体积的 DOM 操作库](https://github.com/bendc/sprint)
+>- [jquery 实现原理八：DOM操作-manipulate](http://blog.csdn.net/lihongxun945/article/details/13354369)
+- [跟我一起学JQuery插件开发](http://www.cnblogs.com/damonlan/archive/2012/04/06/2434460.html)
+- [前端 JavaScript 架构](http://www.cnblogs.com/nuysoft/)
+- [大熊君JavaScript插件化开发](http://www.cnblogs.com/bigbearbb/p/4237282.html)
+- [大话JS面向对象之开篇万物皆对象](http://www.cnblogs.com/bigbearbb/p/4168970.html)
+- [ECMAScript5.1中文版 + ECMAScript3 + ECMAScript（合集）](http://yanhaijing.com/es5/#162)
+- [深入理解javascript原型和闭包系列](http://www.cnblogs.com/wangfupeng1988/p/4001284.html)
+- [JavaScript学习总结（一）基础部分](http://segmentfault.com/blog/trigkit4/1190000000652749)
+- [如何正确学习JavaScript](http://www.crimx.com/2014/05/15/how-to-learn-javascript-properly/)
+- [豪情前端作品列表 - 着重于原生js的研究与探索](http://1.gitapp.sinaapp.com/base/)
+- [JavaScript奇技淫巧45招](http://chensd.com/2015-01/45-useful-javascript-tips-tricks-and-best-practices.html)
+- [JavaScript 判断 DOM 何时加载完毕](http://www.cnblogs.com/ninofocus/archive/2012/11/11/2764640.html)
+- [谈谈DOMContentLoaded：Javascript中的domReady引入机制](http://www.cnblogs.com/horve/p/4092064.html)
+- [[译]神马是AMD, CommonJS, UMD](http://www.w3ctech.com/topic/858)
+- [阿当大话西游之WEB组件](http://www.imooc.com/view/99)
+- [实战JS正则表达式 - 大额_skylar](http://www.cnblogs.com/skylar/p/4265490.html)
+- [JavaScript的计时器的工作原理](http://segmentfault.com/a/1190000002633108)
+- [前端模版选择](http://garann.github.io/template-chooser/)
+- [Sprint.js - 一个高性能、小体积的 DOM 操作库](https://github.com/bendc/sprint)
 
----
 ### jq-plugin
->* [jquery特效,Bootstrap后台模板,管理模板,响应式模板,手机模板,微信小游戏源码](http://www.jqueryfuns.com/)
+>- [jquery特效,Bootstrap后台模板,管理模板,响应式模板,手机模板,微信小游戏源码](http://www.jqueryfuns.com/)
 - [The Handpicked jQuery Plugins Repository. A handpicked collection of jQuery plugins.](http://www.jque.re/)
 - [JavaScript UI Library, HTML5 Widgets Framework for App Development - Webix](http://webix.com/)
-* [jQuery插件库](http://www.jq22.com/)
-* [dowebok](http://www.dowebok.com/)
-* [时间格式Moment.js](http://momentjs.com/)
-* [Mobiscroll移动开发中日期选择js插件](http://www.uedsc.com/mobiscroll.html)
-* [js代码 设为首页 加入收藏](http://www.cnblogs.com/naniannayue/archive/2011/12/16/2289798.html)
-* [搭建web app常用的样式/组件等收集列表(移动优先)](https://github.com/JingwenTian/awesome-frontend)
-* [jQuery之家-自由分享jQuery、html5、css3的插件库](http://www.htmleaf.com/)
-___
->__fullCalendar__
-* [fullCalendar:中文API](http://blog.163.com/lizhenming_2008/blog/static/7655833320124304254255/)
-* [FullCalendar（日程管理控件）](http://www.oschina.net/question/565065_86550)
-* [fullCalendar:中文API](http://blog.sina.com.cn/s/blog_9475b1c101012c5f.html)
-* [Google Calendar](http://arshaw.com/fullcalendar/docs/google_calendar/)
-* [fullCalendar:中文API](http://www.njphp.cn/thread-5799-1-1.html)
-* [fullcalendar实例应用,fullcalendar使用教程,fullcalendar事件更新,日历控件,fullcalendar移动](http://blog.xxtime.com/?p=876)
-* [FullCalendar日历插件说明文档](http://www.helloweba.com/view-blog-231.html)
-* [FullCalendar 官方文档翻译](http://www.cnblogs.com/mycoding/archive/2011/05/20/2052152.html)
-___
->__图表__
-* [Highcharts中文网](http://www.hcharts.cn/)
-* [ECharts](http://echarts.baidu.com/index.html)
-___
->__视觉差__
-* [parallax.js](http://matthew.wagerfield.com/parallax/)
-* [QQ空间2013年度升级](http://s5s5.github.io/CSS-Animations/v8v4/index-jq.htm#)
-___
->__upload__
-* [Fine Uploader](http://fineuploader.com/index.html)
-* [Web Uploader](http://fex-team.github.io/webuploader/)
-* [文件上传相关的事儿](http://bh-lay.com/blog/14a2e2b6592)
-___
->__selectbox__
-* [selectbox](http://aui.github.io/popupjs/doc/selectbox.html)
-* [下拉菜单（原理分析）](http://www.imooc.com/code/2903)
-* [Select2 - The jQuery replacement for select boxes](http://ivaynberg.github.io/select2/)
-* [Filament Group Lab](http://www.mb5u.com/jscode/html/jquery/632_fg_menu/)
-___
->__slider__
-* [iSlider by BE-FE](http://be-fe.github.io/iSlider/)
-___
->__验证码__
-- [极验验证](http://www.geetest.com/)
-___
->__相册__
-- [PhotoSwipe: JavaScript Image Gallery](http://photoswipe.com/)
+- [jQuery插件库](http://www.jq22.com/)
+- [dowebok](http://www.dowebok.com/)
+- [时间格式Moment.js](http://momentjs.com/)
+- [Mobiscroll移动开发中日期选择js插件](http://www.uedsc.com/mobiscroll.html)
+- [js代码 设为首页 加入收藏](http://www.cnblogs.com/naniannayue/archive/2011/12/16/2289798.html)
+- [搭建web app常用的样式/组件等收集列表(移动优先)](https://github.com/JingwenTian/awesome-frontend)
+- [jQuery之家-自由分享jQuery、html5、css3的插件库](http://www.htmleaf.com/)
+- [前端组件库](http://www.kuqin.com/shuoit/20150307/345076.html)
+
+#### fullCalendar
+>- [fullCalendar:中文API](http://blog.163.com/lizhenming_2008/blog/static/7655833320124304254255/)
+- [FullCalendar（日程管理控件）](http://www.oschina.net/question/565065_86550)
+- [fullCalendar:中文API](http://blog.sina.com.cn/s/blog_9475b1c101012c5f.html)
+- [Google Calendar](http://arshaw.com/fullcalendar/docs/google_calendar/)
+- [fullCalendar:中文API](http://www.njphp.cn/thread-5799-1-1.html)
+- [fullcalendar实例应用,fullcalendar使用教程,fullcalendar事件更新,日历控件,fullcalendar移动](http://blog.xxtime.com/?p=876)
+- [FullCalendar日历插件说明文档](http://www.helloweba.com/view-blog-231.html)
+- [FullCalendar 官方文档翻译](http://www.cnblogs.com/mycoding/archive/2011/05/20/2052152.html)
+
+#### 图表
+>- [Highcharts中文网](http://www.hcharts.cn/)
+- [ECharts](http://echarts.baidu.com/index.html)
+
+#### 视觉差
+>- [parallax.js](http://matthew.wagerfield.com/parallax/)
+- [QQ空间2013年度升级](http://s5s5.github.io/CSS-Animations/v8v4/index-jq.htm#)
+
+#### upload
+>- [Fine Uploader](http://fineuploader.com/index.html)
+- [Web Uploader](http://fex-team.github.io/webuploader/)
+- [文件上传相关的事儿](http://bh-lay.com/blog/14a2e2b6592)
+
+#### selectbox
+>- [selectbox](http://aui.github.io/popupjs/doc/selectbox.html)
+- [下拉菜单（原理分析）](http://www.imooc.com/code/2903)
+- [Select2 - The jQuery replacement for select boxes](http://ivaynberg.github.io/select2/)
+- [Filament Group Lab](http://www.mb5u.com/jscode/html/jquery/632_fg_menu/)
+
+#### slider
+>- [iSlider by BE-FE](http://be-fe.github.io/iSlider/)
+
+#### 验证码
+>- [极验验证](http://www.geetest.com/)
+
+#### 相册
+>- [PhotoSwipe: JavaScript Image Gallery](http://photoswipe.com/)
 - [ZOOM - jQuery photo gallery plugin](http://gurde.github.io/ZOOM/)
 - [pixjs](http://pixjs.com/)
 - [FancyBox – 经典 Lightbox 效果插件](http://www.yyyweb.com/3068.html)
-___
->__弹幕__
-- [bilibili弹幕类型网站的HTML5完美实现](http://cloudbbs.org/forum.php?mod=viewthread&tid=21977)
-- [Turn.js: The page flip effect in HTML5](http://turnjs.com/#)
-___
->__引导__
-- [linkedin.github.io/hopscotch/](http://linkedin.github.io/hopscotch/)
-___
->__拖拽__
-- [Drag and Drop Interaction Ideas](http://tympanus.net/Development/DragDropInteractions/page-scale.html)
-- [dragula](http://bevacqua.github.io/dragula/)
-___
->__省略号__
-- [jQuery.dotdotdot, advanced cross-browser ellipsis for multiple line content.](http://dotdotdot.frebsite.nl/)
->__popup__
-- [UI_demo](http://bh-lay.github.io/UI/)
->__lazyload__
-- [layzr.js](https://github.com/callmecavs/layzr.js)
-___
-### jquery源码分析
->* [jQuery1.6.1源码分析系列 - nuysoft](http://www.cnblogs.com/nuysoft/archive/2011/11/14/2248023.html)
-* [jQuery源码分析系列 - 【Aaron】](http://www.cnblogs.com/aaronjs/p/3279314.html)
-* [jQuery源码剖析（一）——概览&工具方法](http://rapheal.sinaapp.com/2013/01/17/jquery-src-util/)
-* [zepto源码注释](http://www.cnblogs.com/sky000/archive/2013/03/29/2988952.html)
 
----
+#### 弹幕
+>- [bilibili弹幕类型网站的HTML5完美实现](http://cloudbbs.org/forum.php?mod=viewthread&tid=21977)
+- [Turn.js: The page flip effect in HTML5](http://turnjs.com/#)
+
+#### 引导
+>- [linkedin.github.io/hopscotch/](http://linkedin.github.io/hopscotch/)
+
+#### 拖拽
+>- [Drag and Drop Interaction Ideas](http://tympanus.net/Development/DragDropInteractions/page-scale.html)
+- [dragula](http://bevacqua.github.io/dragula/)
+
+#### 省略号
+>- [jQuery.dotdotdot, advanced cross-browser ellipsis for multiple line content.](http://dotdotdot.frebsite.nl/)
+
+#### popup
+>- [UI_demo](http://bh-lay.github.io/UI/)
+
+#### lazyload
+>- [layzr.js](https://github.com/callmecavs/layzr.js)
+
+#### 复制
+>- [Copy to clipboard html browser.](http://zeroclipboard.org/)
+
+#### 视频播放器
+>- http://www.jplayer.org/
+
+### jquery源码分析
+>- [jQuery1.6.1源码分析系列 - nuysoft](http://www.cnblogs.com/nuysoft/archive/2011/11/14/2248023.html)
+- [jQuery源码分析系列 - 【Aaron】](http://www.cnblogs.com/aaronjs/p/3279314.html)
+- [jQuery源码剖析（一）——概览&工具方法](http://rapheal.sinaapp.com/2013/01/17/jquery-src-util/)
+- [zepto源码注释](http://www.cnblogs.com/sky000/archive/2013/03/29/2988952.html)
+
+### jQuery插件书写方式
+>- [**jQuery插件书写方式**](https://github.com/ittce/ittce.github.com/issues/11)
+
 ### css
->* [Bootstrap 源码解析](http://suqing.iteye.com/blog/1984131)
-* [固定(Fixed) vs. 流动(Fluid) vs. 弹性(Elastic)：哪种布局更适合你？](http://blog.moocss.com/tutorials/html-css-tutorials/438.html)
-* [移动端H5页面之iphone6的适配](http://www.ghugo.com/mobile-h5-fluid-layout-for-iphone6/)
-* [Font Awesome 4.2.0 479款图标 Font Awesome IE7兼容处理](http://www.thinkcmf.com/font/icons)
-* [字蛛（FontSpider）字体压缩](http://font-spider.org/)
-* [NounProject SVG icon资源](https://thenounproject.com/)
-* [函数式 CSS](http://yanhaijing.com/css/2013/09/02/functional-css-fcss/)
-___
->__案例__
-* [Switch Input](http://meyer.github.io/css-toggle-switch/)
-___
->* [使用 Bootstrap 和 HTML5 Boilerplate 开始一个项目](http://www.cnblogs.com/xyzhanjiang/p/3790646.html)
-* [使用 Bootstrap 和 HTML5 Boilerplate 开始一个项目续](http://www.cnblogs.com/xyzhanjiang/p/3804481.html)
-* [FrozenUI - 专注于移动web的UI框架](http://frozenui.github.io/)
-  外观样式与位置样式分离
-* [经验分享：多屏复杂动画CSS技巧三则](http://isux.tencent.com/css-animation-skills.html)
+>- [Bootstrap 源码解析](http://suqing.iteye.com/blog/1984131)
+- [固定(Fixed) vs. 流动(Fluid) vs. 弹性(Elastic)：哪种布局更适合你？](http://blog.moocss.com/tutorials/html-css-tutorials/438.html)
+- [移动端H5页面之iphone6的适配](http://www.ghugo.com/mobile-h5-fluid-layout-for-iphone6/)
+- [Font Awesome 4.2.0 479款图标 Font Awesome IE7兼容处理](http://www.thinkcmf.com/font/icons)
+- [字蛛（FontSpider）字体压缩](http://font-spider.org/)
+- [NounProject SVG icon资源](https://thenounproject.com/)
+- [css framework](http://zh.learnlayout.com/frameworks.html)
+
+####案例
+>- [Switch Input](http://meyer.github.io/css-toggle-switch/)
+- [使用 Bootstrap 和 HTML5 Boilerplate 开始一个项目](http://www.cnblogs.com/xyzhanjiang/p/3790646.html)
+- [使用 Bootstrap 和 HTML5 Boilerplate 开始一个项目续](http://www.cnblogs.com/xyzhanjiang/p/3804481.html)
+- [FrozenUI - 专注于移动web的UI框架](http://frozenui.github.io/)
+- [经验分享：多屏复杂动画CSS技巧三则](http://isux.tencent.com/css-animation-skills.html)
 ```css
 .animate {
     animation-play-state: paused;
@@ -205,23 +218,23 @@ ___
     animation-play-state: running;
 }
 ``` 
-__animate__
->* [ThreeCanvas.js雪花飘落3D动画特效 - jQueryfuns](http://www.jqueryfuns.com/resource/270)
-* [网页动画的十二原则](http://www.jianshu.com/p/1858a8733ba3)
-* [A Colorful Clock With CSS & jQuery](http://demo.tutorialzine.com/2009/12/colorful-clock-jquery-css/demo.html)
-* [CSS3 UI Lib](http://css3lib.alloyteam.com/)
-* [Animated Headlines](http://codyhouse.co/demo/animated-headlines/#0)
-* [CSS3 Animation Cheat Sheet - Justin Aguilar](http://www.justinaguilar.com/animations/#)
-* [animate库](http://anicollection.github.io/#/) 可直接要 http://daneden.github.io/animate.css/ 上面的某段代码
-* [Magic Animations CSS3](http://www.minimamente.com/example/magic_animations/)
-* [Web高性能动画](http://v.youku.com/v_show/id_XNzQ4MDE3ODQw.html)
-* [迅雷7.9-全新下载体验](http://dl.xunlei.com/xl7.9/intro.html)
-* [A Single Div](http://a.singlediv.com/)
-* [利用CSS实现带相同间隔地无缝滚动动画](http://www.haodaima.net/art/2776129)
-* [CSS Shake](http://elrumordelaluz.github.io/csshake/)
+####animate
+>- [ThreeCanvas.js雪花飘落3D动画特效 - jQueryfuns](http://www.jqueryfuns.com/resource/270)
+- [网页动画的十二原则](http://www.jianshu.com/p/1858a8733ba3)
+- [A Colorful Clock With CSS & jQuery](http://demo.tutorialzine.com/2009/12/colorful-clock-jquery-css/demo.html)
+- [CSS3 UI Lib](http://css3lib.alloyteam.com/)
+- [Animated Headlines](http://codyhouse.co/demo/animated-headlines/#0)
+- [CSS3 Animation Cheat Sheet - Justin Aguilar](http://www.justinaguilar.com/animations/#)
+- [animate库](http://anicollection.github.io/#/) 可直接要 http://daneden.github.io/animate.css/ 上面的某段代码
+- [Magic Animations CSS3](http://www.minimamente.com/example/magic_animations/)
+- [Web高性能动画](http://v.youku.com/v_show/id_XNzQ4MDE3ODQw.html)
+- [迅雷7.9-全新下载体验](http://dl.xunlei.com/xl7.9/intro.html)
+- [A Single Div](http://a.singlediv.com/)
+- [利用CSS实现带相同间隔地无缝滚动动画](http://www.haodaima.net/art/2776129)
+- [CSS Shake](http://elrumordelaluz.github.io/csshake/)
 * [Spark创意火花集](http://spark.tencent.com/index.html)
-___
->__click__
+
+####click
 * [Waves](http://fian.my.id/Waves/)
 * [Circular Progress Button with SVG](http://tympanus.net/Tutorials/CircularProgressButton/)
 ___
@@ -287,9 +300,10 @@ ___
 * [重构单元测试 for 财付通](https://www.tenpay.com/v2/labs/wrtb/index.shtml)
 * [一款简洁强大的MarkDown可视化编辑工具.on Mac OS X.](http://25.io/mou/)
 * [VPN: 云梯](https://www.cloudtizi.com/pricing)
+* [阿里字体](http://iconfont.cn/)
 
-
-
+### 构建
+>- [htmlone combo ; gulp组件](https://github.com/amfe/or.htmlone.gulp)
 
 ___
 >__图片__
@@ -321,6 +335,17 @@ ___
 ---
 ### 模版
 >* [响应式模版](http://html5up.net/)
+bootstrap 后台系列 界面
+ - http://h-ui.net/index.shtml
+ - https://wrapbootstrap.com/
+ - http://centaurus.adbee.technology/v5/gallery.html
+ - http://208.68.38.122/themes/emerald/dev/htmls/dashboard.html
+ - http://beyondadmin-v1.3.s3-website-us-east-1.amazonaws.com/index.html
+ - http://themicon.co/theme/beadmin/
+ - http://demo.ztapps.com/curo/v1.1/
+ - http://foxythemes.net/cleanzone2/
+ - http://iarouse.com/dist-slim/v1.3/index.html 
+
 
 ---
 ### other
