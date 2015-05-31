@@ -1,3 +1,9 @@
+# 前端资源
+
+标签（空格分隔）： 前端
+
+[TOC]
+
 ### [!]前后端完全分离初探
 [前后端完全分离初探](http://arccode.net/2015/04/08/%E5%89%8D%E5%90%8E%E7%AB%AF%E5%AE%8C%E5%85%A8%E5%88%86%E7%A6%BB%E5%88%9D%E6%8E%A2/)
 [vue.js](http://vuejs.org/)
@@ -17,6 +23,9 @@
 
 ### [!]Facebook React Native
 >- [__Facebook React Native 中文教程__](http://wiki.jikexueyuan.com/project/react-native/)
+
+### NativeScript
+>- [!][NativeScript – JS 构建跨平台的原生 APP](https://www.nativescript.org/)
 
 ### [!]教程
 >- [妙味课堂](http://www.miaov.com/2013/miaovideo/miaovideo.html)
@@ -55,6 +64,9 @@
 - [腾讯移动Web前端框架](https://github.com/AlloyTeam/Pro)
 - [touch系事件](http://www.html-js.com/article/All-right-thinking-touch-events)
 - [百度云 手势事件库实现了Web App在触屏设备上的手势识别与事件管理功能](http://touch.code.baidu.com/)
+
+#### 模版
+>- [一步一步构建手机WebApp开发——环境搭建篇](http://www.cnblogs.com/wln3344/p/4444567.html)
 
 #### 侧边栏滑动
 >- [Slideout.js](https://github.com/Mango/slideout)
@@ -100,6 +112,8 @@
 - [前端模版选择](http://garann.github.io/template-chooser/)
 - [Sprint.js - 一个高性能、小体积的 DOM 操作库](https://github.com/bendc/sprint)
 
+### [learn backbone](http://javascriptissexy.com/learn-backbone-js-completely/#)
+
 ### jq-plugin
 >- [jquery特效,Bootstrap后台模板,管理模板,响应式模板,手机模板,微信小游戏源码](http://www.jqueryfuns.com/)
 - [The Handpicked jQuery Plugins Repository. A handpicked collection of jQuery plugins.](http://www.jque.re/)
@@ -113,6 +127,9 @@
 - [jQuery之家-自由分享jQuery、html5、css3的插件库](http://www.htmleaf.com/)
 - [前端组件库](http://www.kuqin.com/shuoit/20150307/345076.html)
 
+#### 分页
+>- [基于JQuery的Pager分页器实现代码](http://www.jb51.net/article/24244.htm)
+
 #### fullCalendar
 >- [fullCalendar:中文API](http://blog.163.com/lizhenming_2008/blog/static/7655833320124304254255/)
 - [FullCalendar（日程管理控件）](http://www.oschina.net/question/565065_86550)
@@ -122,6 +139,9 @@
 - [fullcalendar实例应用,fullcalendar使用教程,fullcalendar事件更新,日历控件,fullcalendar移动](http://blog.xxtime.com/?p=876)
 - [FullCalendar日历插件说明文档](http://www.helloweba.com/view-blog-231.html)
 - [FullCalendar 官方文档翻译](http://www.cnblogs.com/mycoding/archive/2011/05/20/2052152.html)
+
+#### 时间
+>- [6 款 Bootstrap 日期/时间插件](http://classfoo.com/ccby/article/TZ79bVq)
 
 #### 图表
 >- [Highcharts中文网](http://www.hcharts.cn/)
@@ -144,6 +164,7 @@
 
 #### slider
 >- [iSlider by BE-FE](http://be-fe.github.io/iSlider/)
+- [Swiper中文网](http://www.swiper.com.cn/)
 
 #### 验证码
 >- [极验验证](http://www.geetest.com/)
@@ -153,6 +174,7 @@
 - [ZOOM - jQuery photo gallery plugin](http://gurde.github.io/ZOOM/)
 - [pixjs](http://pixjs.com/)
 - [FancyBox – 经典 Lightbox 效果插件](http://www.yyyweb.com/3068.html)
+- [图片放大插件](https://github.com/fat/zoom.js)
 
 #### 弹幕
 >- [bilibili弹幕类型网站的HTML5完美实现](http://cloudbbs.org/forum.php?mod=viewthread&tid=21977)
@@ -160,6 +182,7 @@
 
 #### 引导
 >- [linkedin.github.io/hopscotch/](http://linkedin.github.io/hopscotch/)
+- [推荐15款最佳的 jQuery 分步引导插件](http://www.yyyweb.com/3668.html)
 
 #### 拖拽
 >- [Drag and Drop Interaction Ideas](http://tympanus.net/Development/DragDropInteractions/page-scale.html)
@@ -180,6 +203,23 @@
 #### 视频播放器
 >- http://www.jplayer.org/
 
+#### base64
+>- https://github.com/dankogai/js-base64
+
+#### Markdown评论框
+>- http://segmentfault.com/q/1010000000094995
+- http://segmentfault.com/q/1010000002406964
+- http://lab.lepture.com/editor/
+- http://segmentfault.com/q/1010000000741728
+- http://banama.github.io/simple-editor/
+
+#### 富文本编辑器
+>- [Squire – 简洁的 HTML5 富文本编辑器](http://neilj.github.io/Squire/)
+
+#### 水印
+>- [watermark.js - 一个在浏览器中添加图片水印的 JS 库（ES6）](http://brianium.github.io/watermarkjs/)
+
+
 ### jquery源码分析
 >- [jQuery1.6.1源码分析系列 - nuysoft](http://www.cnblogs.com/nuysoft/archive/2011/11/14/2248023.html)
 - [jQuery源码分析系列 - 【Aaron】](http://www.cnblogs.com/aaronjs/p/3279314.html)
@@ -188,6 +228,7 @@
 
 ### jQuery插件书写方式
 >- [**jQuery插件书写方式**](https://github.com/ittce/ittce.github.com/issues/11)
+- [jQuery插件开发精品教程，让你的jQuery提升一个台阶](http://www.cnblogs.com/Wayou/p/jquery_plugin_tutorial.html)
 
 ### css
 >- [Bootstrap 源码解析](http://suqing.iteye.com/blog/1984131)
@@ -197,6 +238,10 @@
 - [字蛛（FontSpider）字体压缩](http://font-spider.org/)
 - [NounProject SVG icon资源](https://thenounproject.com/)
 - [css framework](http://zh.learnlayout.com/frameworks.html)
+
+#### 框架
+>- [Agile Lite](http://weixin.exmobi.cn/www/agile/index.html#index_section)
+- [junior](http://justspamjustin.github.io/junior/#home)
 
 ####案例
 >- [Switch Input](http://meyer.github.io/css-toggle-switch/)
@@ -258,6 +303,7 @@
 ### SASS
 >- [sass入门指南](http://riny.net/2014/sass-guide/)
 - [如何管理多个sass项目，有没有一些高效的开发流程？](http://www.zhihu.com/question/29239526)
+- [Sass Guidelines（中文版） ](http://sass-guidelin.es/zh/)
 
 ### 规范&经验**待整理**
 >- [前端开发指南](http://coderlmn.github.io/Front-End-Development-Guidelines/)
@@ -274,6 +320,9 @@
 - [移动H5前端性能优化指南](http://isux.tencent.com/h5-performance.html)
 - [Web前端开发有哪些良好的编程习惯？](http://www.zhihu.com/question/28015349)
 ![前端技能](http://pic4.zhimg.com/5f58c1e417da4229682fa25b0987a733_r.jpg)
+
+### 性能优化
+>- [!][毫秒必争，前端网页性能最佳实践](http://www.cnblogs.com/developersupport/p/webpage-performance-best-practices.html)
 
 ### 工具
 >- [发现优秀 APP 的一些途径](http://www.jianshu.com/p/64a99d2c932f)
@@ -293,6 +342,10 @@
 - [一款简洁强大的MarkDown可视化编辑工具.on Mac OS X.](http://25.io/mou/)
 - [VPN: 云梯](https://www.cloudtizi.com/pricing)
 - [阿里字体](http://iconfont.cn/)
+- [各种工具](http://get.jobdeer.com/6690.get)
+- [**alloyteam可视化Web构建工具**](http://alloyteam.github.io/AlloyDesigner/)
+- [iOS 图标和图像尺寸](http://deeper29.com/2015/04/29/icon-and-image-sizes/)
+- [原型设计](http://blocsapp.com/)
 
 #### 构建Gulp
 >- [htmlone combo ; gulp组件](https://github.com/amfe/or.htmlone.gulp)
@@ -321,6 +374,8 @@
 - [FIR.im ——App免费内测托管平台|iOS应用Beta测试分发|Android应用内测分发](http://fir.im/)
 - [iOS积分墙风向标_积分墙广告投放价格分析](http://tools.appying.com/)
 - [MIHTool - iOS Web Debugger Pro](http://www.mihtool.com/)
+- [一键查询网页前端CSS、JS技术架构与配色方案](http://card.qdsay.com/)
+- [移动WEB调试利器——Rosin](http://alloyteam.github.io/Rosin/)
 
 ### 模版
 >- [响应式模版](http://html5up.net/)
@@ -375,6 +430,10 @@
 - [利用React写一个评论区组件（React初探）](http://my.oschina.net/leogao0816/blog/379488)
 - [React JS快速开始手册](http://www.cnblogs.com/owenyang/p/4231063.html)
 - [Ratchet中国-Ratchet中文文档、手册、教程、案例](http://cnratchet.com/)
+- [一看就懂的ReactJs入门教程-精华版](http://www.cnblogs.com/yunfeifei/p/4486125.html)
+
+### ionicframework
+>- [ionicframework中文文档](http://ionicframework.net/)
 
 ### Sea.js
 >- [SeaJS 所为何](http://cyj.me/why-seajs/zh/)
