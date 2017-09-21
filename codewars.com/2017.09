@@ -1,0 +1,6 @@
+### BitCounting
+获取参数的字节1的个数
+```javascript
+	let countBits = n => n.toString(2).split('0').join('').length;
+	log(countBits(45))
+```
