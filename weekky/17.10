@@ -1,0 +1,4 @@
+```javascript
+// if (-1*str.indexOf('a') <= -1) 条件判断的另一种方法
+~str.indexOf('searchFor')
+```
