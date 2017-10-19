@@ -1,19 +1,67 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <title>calendar</title>
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black">
-    <meta id="viewport" name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0">
-    <meta name="format-detection" content="telephone=no">
-  </head>
-  <body>
-    <div id="app"></div>
-    <script src="lunar.js"></script>
-    <script>
-      console.log(lunar.getLeapMonth(2017))
-    </script>
-    <!-- built files will be auto injected -->
-  </body>
+
+<head>
+  <meta charset="utf-8">
+  <title>calendar</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta id="viewport" name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0">
+  <meta name="format-detection" content="telephone=no">
+</head>
+
+<body>
+  <div id="app"></div>
+  <script src="lunar.js"></script>
+  <script src="calendar.js"></script>
+  <script>
+    // var d1 = lunar.toLunar(new Date('2017/01/27'))
+    // console.log(d1, d1.lunarMonth == 12, d1.lunarDay == 30) // 12,30
+
+    // var d2 = lunar.toLunar(new Date('2017/01/28'))
+    // console.log(d2, d2.lunarMonth == 1, d2.lunarDay == 1) // 1,1
+
+    // var d3 = lunar.toLunar(new Date('2017/09/19'))
+    // console.log(d3, d3.lunarMonth == 7, d3.lunarDay == 29) // 7,29
+
+    // var d4 = lunar.toLunar(new Date('2017/09/20'))
+    // console.log(d4, d4.lunarMonth == 8, d4.lunarDay == 1) // 8,1
+
+    // var d5 = lunar.toLunar(new Date('2017/10/19'))
+    // console.log(d5, d5.lunarMonth == 8, d5.lunarDay == 30) // 8,30
+
+    // var d6 = lunar.toLunar(new Date('2017/10/20'))
+    // console.log(d6, d6.lunarMonth == 9, d6.lunarDay == 1) // 9,1
+
+    console.clear();
+    // var y = 2016;
+    // var days = [31, 29, 31, 30, 31, 30, 29, 31, 30, 31, 30, 31];
+    var y = 2017;
+    var days = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
+    for (var i = 1; i <= 12; i++) {
+      console.log('=================')
+      var m = days[i - 1];
+      for (var j = 1; j <= m; j++) {
+        var time = y + '-' + i + '-' + j;
+        var data = lunar.toLunar(new Date(time));
+        if (data.lunarDay) {
+          console.log(time, data)
+        } else {
+          console.log(time, data, 'data.lunarDay == 0');
+        }
+      }
+    }
+
+    // console.log()
+    // var str = lunar.getData(y);
+    // str = parseInt(str, 10).toString(2);
+		// str = ('00000' + str).substr(-20);
+    // console.log(y, str, str.length, str.replace(/(\d{4})/g, '$1,'));
+
+    // var time = '2017-08-21'
+    // var data = lunar.toLunar(new Date(time));
+    // console.log(time, data)
+  </script>
+</body>
+
 </html>

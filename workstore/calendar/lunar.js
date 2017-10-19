@@ -143,7 +143,9 @@ var lunar = {
 			daysOffset == 相差天数
 			为了减少不必要的性能浪费（为什么要从1900算到今年），参考日期以2016年春节为准（2016-2-8）
 		*/
-		var daysOffset = (new Date(date.getFullYear(), date.getMonth(), date.getDate()) - new Date(2016, 1, 8)) / 86400000;
+		// console.log(date.getFullYear(), date.getMonth() + 1, date.getDate())
+		var daysOffset = (new Date(date.getFullYear(),date.getMonth(),date.getDate()) - new Date(2016, 1, 8)) / 86400000;
+		if (daysOffset > -1) daysOffset++;
 
 		//获取年数
 		if( daysOffset >= lunarDays ){
@@ -170,16 +172,18 @@ var lunar = {
 		//获取月数
 		var currentMonth, currentMonthDays;
 		for(currentMonth = 1; currentMonth < 12 ; currentMonth++ ){
+			currentMonthDays = -1;
 			_date.isLeap = false;
 			///如果有闰月
 			if( leapMonth ){
 				if( currentMonth > leapMonth ){
 					currentMonth--;
-					leapMonth = 0;
+					leapMonth = 0; // 闰一次
 					_date.isLeap = true;
+					currentMonthDays = this.getLeapDays(currentYear, lunarData);
 				}
 			}
-			currentMonthDays = this.getMonthDays(currentYear, currentMonth);
+			currentMonthDays = currentMonthDays > -1 ? currentMonthDays : this.getMonthDays(currentYear, currentMonth - 1, lunarData);
 			if( daysOffset > currentMonthDays ){
 				daysOffset -= currentMonthDays;
 			}else{
